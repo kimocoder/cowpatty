@@ -22,7 +22,7 @@
  */
 
 #define PROGNAME "cowpatty"
-#define VER "4.8"
+#define VER "5.0"
 #define MAXPASSPHRASE 256
 #define DOT1X_LLCTYPE "\x88\x8e"
 
